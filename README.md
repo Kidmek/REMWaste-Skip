@@ -16,7 +16,7 @@ The task was to redesign the skip selection page, focusing on:
 - **Dynamic Data Fetching**: Skip options are fetched from the API endpoint: [https://app.wewantwaste.co.uk/api/skips/by-location?postcode=NR32&area=Lowestoft](https://app.wewantwaste.co.uk/api/skips/by-location?postcode=NR32&area=Lowestoft).
 - **Responsive Design**: The page is fully responsive and adapts to different screen sizes, ensuring a seamless experience on both mobile and desktop devices.
 - **Improved UI/UX**: Redesigned components with a modern and user-friendly interface.
-- **Filter and Sort Options**: Users can filter skips by placement type (e.g., road placement or heavy waste) and view sorted skip sizes.
+- **Filter**: Users can filter skips by placement type (e.g., road placement or heavy waste) and view skip sizes.
 - **Interactive Step Progress Indicator**: A visual guide to show the user's progress through the selection process.
 
 ## Approach
